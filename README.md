@@ -4,7 +4,7 @@ Cardápio digital para hamburgueria e pizzaria. O cliente monta o pedido no celu
 
 > Projeto demonstrativo: o restaurante é fictício.
 
-**🔗 Demo:** _adicione o link aqui depois do deploy_
+**🔗 Demo:** [sabor-da-casa-pink.vercel.app](https://sabor-da-casa-pink.vercel.app)
 
 ![Sabor da Casa](docs/preview.jpg)
 
